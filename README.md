@@ -40,5 +40,7 @@
 - [CS231](http://cs231n.stanford.edu/)
 - [Introduction to Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
 - [Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
+- [Reinforcement Learning of Udacity](https://classroom.udacity.com/courses/ud600) - More hand-on
+- [Reinforcement Learning DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2s)- More Theory
 
 
