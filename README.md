@@ -28,7 +28,8 @@
 - [Reinforcement Learning, An Introduction](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
 - [Markov Decision Process](https://www.amazon.com/Markov-Decision-Processes-Stochastic-Programming/dp/0471727822)
 ### Security
-
+- [Understanding Network Hacks](https://www.amazon.com/Understanding-Network-Hacks-Attack-Defense/dp/3662444364)
+- [Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 ## References
 ### Deep Learning
 ### Courses
