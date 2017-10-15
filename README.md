@@ -3,7 +3,7 @@
 ### Probability and Statistic
 - [Introduction to Probability](https://www.amazon.com/gp/product/1466575573/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466575573&linkCode=as2)
 - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/data.html)
-- [Statistical Model Theory and Practice, Revised Edition[(https://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850)
+- [Statistical Model Theory and Practice, Revised Edition](https://www.amazon.com/Statistical-Models-Practice-David-Freedman/dp/0521743850)
 - Probability cheatsheets
 
 ### Data Mining
