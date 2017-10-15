@@ -31,6 +31,14 @@
 - [Understanding Network Hacks](https://www.amazon.com/Understanding-Network-Hacks-Attack-Defense/dp/3662444364)
 - [Practical Malware Analysis: A Hands-On Guide to Dissecting Malicious Software](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 ## References
-### Deep Learning
+### Github
+- [Kapathy github](http://karpathy.github.io/) I am a big fan of him
 ### Courses
-### Big Data
+- [Artificial Intelligence](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+2T2017/course/)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [CS109](http://cs109.github.io/2015/)
+- [CS231](http://cs231n.stanford.edu/)
+- [Introduction to Spark](https://www.edx.org/course/introduction-apache-spark-uc-berkeleyx-cs105x)
+- [Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
+
+
