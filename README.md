@@ -1,5 +1,5 @@
 # BooksandReferences
-You can find most of books in above repos. But I recommend you to buy hard cover instead of electrical version.
+Based on my experience, I list some books and links for you to reference. You can find most of books in above repos. But I recommend you to buy the books from original source.
 ## Books
 ### Probability and Statistic
 - [Introduction to Probability](https://www.amazon.com/gp/product/1466575573/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1466575573&linkCode=as2)
