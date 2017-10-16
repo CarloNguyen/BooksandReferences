@@ -43,5 +43,7 @@ Based on my experience, I list some books and links for you to reference. You ca
 - [Big Data Analysis with Apache Spark](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
 - [Reinforcement Learning of Udacity](https://classroom.udacity.com/courses/ud600) - More hand-on
 - [Reinforcement Learning DeepMind](https://www.youtube.com/watch?v=2pWv7GOvuf0&t=2s)- More Theory
+- [Game Theory](https://www.coursera.org/learn/game-theory-1)
+- [Deep Learning with Tensor Flow](https://cognitiveclass.ai/courses/deep-learning-tensorflow/)
 
 
